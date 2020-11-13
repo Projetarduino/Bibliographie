@@ -34,6 +34,7 @@ donc, on utilise des ultrasons et de larges sources (ex: ensemble de speakers pi
 		. https://en.wikipedia.org/wiki/Directional_sound
 		. https://en.wikipedia.org/wiki/Sound_from_ultrasound
 		. https://asa.scitation.org/journal/jas
+		. https://ieee-uffc.org/ultrasonics/software/
 		. https://echocardiographer.org/Echo Physics/BasicTransducers.html
 	
 	. modulation de frequence:
