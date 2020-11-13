@@ -1,3 +1,8 @@
+.Recherche d'un sujet :
+	.https://create.arduino.cc/projecthub/projects/tags/cycling
+        .https://create.arduino.cc/projecthub/search?q=music
+
+
 . Principe de Huygens–Fresnel:
 	. augmentation de ((surface source) / (longueur onde)) induit augmentation de directionalite du son
 
