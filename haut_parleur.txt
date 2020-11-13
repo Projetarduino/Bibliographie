@@ -1,0 +1,57 @@
+. Principe de Huygens–Fresnel:
+	. augmentation de ((surface source) / (longueur onde)) induit augmentation de directionalite du son
+
+donc, on utilise des ultrasons et de larges sources (ex: ensemble de speakers piezzo)
+
+. ultrasons :
+	. inaudibles (audition humaine: 20Hz - 20KHz)
+	. modulation de frequence du signal sonore, plusieurs solutions:
+		. generation de signal carre, le signal est convertit en sinusoide par le transducteur ["Dexterous ultrasonic levitation..."]
+		. utilisation d'une puce DDS (direct digital synthesis):
+			. puce AD9833 (Analog)
+	
+	. le signal ultrason module passe dans un amplificateur
+	. le signal module est envoye aux speakers
+	. l'onde est demodule dans l'air et en rentrant en collision avec des surfaces
+
+. attenuation des ultrasons dans l'air:
+	. augmente avec la frequence
+
+. equation d'onde du signal:
+	. vitesse du son depend de la pression, donc de l'amplitude a un temps t
+	 donc, l'onde se deforme au fur et a mesure
+	 c'est l'"accoustique non lineaire" 
+	. equation d'onde: equation differentielle non lineaire 
+
+
+. liens utiles:
+	. ultrasons/sons
+		. https://en.wikipedia.org/wiki/Directional_sound
+		. https://en.wikipedia.org/wiki/Sound_from_ultrasound
+		. https://asa.scitation.org/journal/jas
+		. https://echocardiographer.org/Echo Physics/BasicTransducers.html
+	
+	. modulation de frequence:
+		. https://en.wikipedia.org/wiki/Frequency_modulation
+	
+	. puce dds:
+		. https://en.wikipedia.org/wiki/Direct_digital_synthesis
+		. https://www.analog.com/en/products/ad9833.html?doc=ad9833.pdf
+	
+	. simulateur 'FOCUS':
+		. https://www.egr.msu.edu/~fultras-web/documentation/guides/getting-started.php
+	
+	. Huygens–Fresnel:
+		. https://en.wikipedia.org/wiki/Huygens–Fresnel_principle
+		. https://www.mathpages.com/home/kmath242/kmath242.htm
+	
+	. accoustique non lineaire, equations d'onde:
+		. https://en.wikipedia.org/wiki/Nonlinear_acoustics
+		. https://en.wikipedia.org/wiki/Wave_equation
+	
+	. attenuation accoustique dans l'air:
+		. https://en.wikipedia.org/wiki/Acoustic_attenuation
+		. https://asa.scitation.org/doi/10.1121/1.412989
+	
+	. distortion accoustique:
+		. https://asa.scitation.org/doi/abs/10.1121/1.421645
