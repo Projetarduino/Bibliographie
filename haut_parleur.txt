@@ -65,3 +65,5 @@ donc, on utilise des ultrasons et de larges sources (ex: ensemble de speakers pi
 	.https://www.youtube.com/watch?v=4x97jqwO5nQ
         .https://www.youtube.com/watch?v=aBdVfUnS-pM
 	.https://youtu.be/KjsT_s5eWhI
+	.https://youtu.be/nkWL67eafa0
+	
