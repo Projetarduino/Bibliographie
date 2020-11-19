@@ -10,7 +10,7 @@ donc, on utilise des ultrasons et de larges sources (ex: ensemble de speakers pi
 
 . ultrasons :
 	. inaudibles (audition humaine: 20Hz - 20KHz)
-	. modulation de frequence du signal sonore, plusieurs solutions:
+	. modulation de frequence / amplitude du signal sonore, plusieurs solutions:
 		. generation de signal carre, le signal est convertit en sinusoide par le transducteur ["Dexterous ultrasonic levitation..."]
 		. utilisation d'une puce DDS (direct digital synthesis):
 			. puce AD9833 (Analog)
@@ -39,7 +39,10 @@ donc, on utilise des ultrasons et de larges sources (ex: ensemble de speakers pi
 	
 	. modulation de frequence:
 		. https://en.wikipedia.org/wiki/Frequency_modulation
-
+	. arduino timers et pwm:
+		. http://www.righto.com/2009/07/secrets-of-arduino-pwm.html
+		. https://learn.adafruit.com/multi-tasking-the-arduino-part-2/timers
+	
 	. puce dds:
 		. https://en.wikipedia.org/wiki/Direct_digital_synthesis
 		. https://www.analog.com/en/products/ad9833.html?doc=ad9833.pdf
