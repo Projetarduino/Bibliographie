@@ -43,6 +43,7 @@ donc, on utilise des ultrasons et de larges sources (ex: ensemble de speakers pi
 		. http://www.righto.com/2009/07/secrets-of-arduino-pwm.html
 		. https://learn.adafruit.com/multi-tasking-the-arduino-part-2/timers
 		. https://www.youtube.com/watch?v=2kr5A350H7E  ->  timers
+		. https://www.youtube.com/watch?v=6q1yEb_ukw8  ->  registres et operations binaires
 		
 	
 	. puce dds:
