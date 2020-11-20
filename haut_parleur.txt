@@ -36,6 +36,8 @@ donc, on utilise des ultrasons et de larges sources (ex: ensemble de speakers pi
 		. https://asa.scitation.org/journal/jas
 		. https://ieee-uffc.org/ultrasonics/software/
 		. https://echocardiographer.org/Echo Physics/BasicTransducers.html
+		
+		. https://www.holosonics.com/fundamental-limitations-of-loudspeaker-directivity
 	
 	. modulation de fréquence:
 		. https://en.wikipedia.org/wiki/Frequency_modulation
