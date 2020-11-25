@@ -2,6 +2,14 @@
 	.https://create.arduino.cc/projecthub/projects/tags/cycling
         .https://create.arduino.cc/projecthub/search?q=music
 
+. Moteurs :
+	. https://www.aranacorp.com/fr/pilotez-un-moteur-cc-avec-arduino/
+	. http://wiki.labaixbidouille.com/index.php/Aller_dans_tous_les_sens_:_Pilotage_avancé_d%27un_moteur_à_courant_continu_avec_un_pont_en_H
+	. https://fr.wikipedia.org/wiki/Machine_à_courant_continu
+	. https://fr.wikipedia.org/wiki/Machine_synchrone
+	. https://fr.wikipedia.org/wiki/Machine_asynchrone
+	. https://fr.wikipedia.org/wiki/Moteur_pas_à_pas
+
 
 . Principe de Huygens–Fresnel:
 	. augmentation de ((surface source) / (longueur onde)) induit augmentation de directionalite du son
